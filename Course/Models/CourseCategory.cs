@@ -9,10 +9,6 @@ namespace CourseApp.Models
         public string CourseCategoryName { get; set; }
         public bool IsActive { get; set; }
         public List<Courses> Courses { get; set; }
-
-
-
-
-
+        
     }
 }

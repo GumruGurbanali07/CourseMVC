@@ -15,5 +15,6 @@ namespace CourseApp.Controllers
             var values = _context.Coursess.ToList();
             return View(values);
         }
+        
     }
 }
