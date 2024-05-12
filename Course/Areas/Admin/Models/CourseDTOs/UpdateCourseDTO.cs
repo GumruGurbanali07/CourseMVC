@@ -15,7 +15,7 @@ namespace CourseApp.Areas.Admin.Models.CourseDTOs
 
         public bool IsActive { get; set; }
        
-        public IFormFile CourseImage { get; set; }
+        public IFormFile? CourseImage { get; set; }
         [Required(ErrorMessage = "Category can not null")]
         public int CourseCategoryId { get; set; }
 

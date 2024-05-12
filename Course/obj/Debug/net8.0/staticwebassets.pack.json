@@ -217,6 +217,14 @@
       "PackagePath": "staticwebassets\\Edu-School-Starter\\starter-license-W3Layouts.txt"
     },
     {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\AboutImagesFiles\\download (33).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\AboutImagesFiles\\download (33).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\AboutImagesFiles\\images (1).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\AboutImagesFiles\\images (1).jfif"
+    },
+    {
       "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\download (31).jfif",
       "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\download (31).jfif"
     },
@@ -233,8 +241,16 @@
       "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\images (6).jfif"
     },
     {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\StudentImagesFiles\\1182OS_02_01.jpg",
+      "PackagePath": "staticwebassets\\ImagesFiles\\StudentImagesFiles\\1182OS_02_01.jpg"
+    },
+    {
       "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\StudentImagesFiles\\atomic-bomb-hiroshima-nagasaki.webp",
       "PackagePath": "staticwebassets\\ImagesFiles\\StudentImagesFiles\\atomic-bomb-hiroshima-nagasaki.webp"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\StudentImagesFiles\\images (4).png",
+      "PackagePath": "staticwebassets\\ImagesFiles\\StudentImagesFiles\\images (4).png"
     },
     {
       "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TeacherImagesFiles\\d049af53-675f-4558-ad77-e3c2308f4f19.jfif",
