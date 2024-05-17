@@ -1,5 +1,6 @@
 ﻿using CourseApp.Context;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace CourseApp.Controllers
 {
@@ -12,9 +13,18 @@ namespace CourseApp.Controllers
         }
         public IActionResult Index()
         {
-            var values = _context.Coursess.ToList();
+            var values = _context.Coursess.Include(x => x.CourseCategory).Include(x => x.Teachers).Where(x => x.IsActive == true).ToList();
             return View(values);
         }
-        
+        public IActionResult CourseDetail(int id)
+        {
+            var values = _context.Coursess.Include(x => x.CourseCategory).Include(x => x.Teachers).FirstOrDefault(x => x.CourseId == id);
+            var studentCount = _context.CourseSubcribes.Where(x => x.CourseId == id).Select(x => x.StudentId).Count();
+            ViewBag.StudentCount = studentCount;
+            return View(values);
+
+        }
+
+
     }
 }

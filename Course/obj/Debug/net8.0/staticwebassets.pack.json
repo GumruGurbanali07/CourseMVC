@@ -225,12 +225,44 @@
       "PackagePath": "staticwebassets\\ImagesFiles\\AboutImagesFiles\\images (1).jfif"
     },
     {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\AdminImagesFiles\\BigWMDsymbols.jpg",
+      "PackagePath": "staticwebassets\\ImagesFiles\\AdminImagesFiles\\BigWMDsymbols.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\AdminImagesFiles\\images (7).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\AdminImagesFiles\\images (7).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\8f9261b1-c13a-4382-a3be-2f904a970bb6.jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\8f9261b1-c13a-4382-a3be-2f904a970bb6.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\Untitled11.jpg",
+      "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\Untitled11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\d0f13085-838f-496e-b3c8-3aa78f3938e2.jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\d0f13085-838f-496e-b3c8-3aa78f3938e2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\download (29).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\download (29).jfif"
+    },
+    {
       "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\download (31).jfif",
       "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\download (31).jfif"
     },
     {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\download (32).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\download (32).jfif"
+    },
+    {
       "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\download (36).jfif",
       "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\download (36).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\experience-img.png",
+      "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\experience-img.png"
     },
     {
       "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\images (3).jfif",
@@ -241,16 +273,64 @@
       "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\images (6).jfif"
     },
     {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\RegisterImagesFiles\\download (2).png",
+      "PackagePath": "staticwebassets\\ImagesFiles\\RegisterImagesFiles\\download (2).png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\RegisterImagesFiles\\download (31).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\RegisterImagesFiles\\download (31).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\RegisterImagesFiles\\download (36).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\RegisterImagesFiles\\download (36).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\RegisterImagesFiles\\images (4).png",
+      "PackagePath": "staticwebassets\\ImagesFiles\\RegisterImagesFiles\\images (4).png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\RegisterImagesFiles\\images (7).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\RegisterImagesFiles\\images (7).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\RegisterImagesFiles\\maxresdefault.jpg",
+      "PackagePath": "staticwebassets\\ImagesFiles\\RegisterImagesFiles\\maxresdefault.jpg"
+    },
+    {
       "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\StudentImagesFiles\\1182OS_02_01.jpg",
       "PackagePath": "staticwebassets\\ImagesFiles\\StudentImagesFiles\\1182OS_02_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\StudentImagesFiles\\aa0157c654e5b1be01980948cea5d81d9f99ce38.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFiles\\StudentImagesFiles\\aa0157c654e5b1be01980948cea5d81d9f99ce38.jpeg"
     },
     {
       "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\StudentImagesFiles\\atomic-bomb-hiroshima-nagasaki.webp",
       "PackagePath": "staticwebassets\\ImagesFiles\\StudentImagesFiles\\atomic-bomb-hiroshima-nagasaki.webp"
     },
     {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\StudentImagesFiles\\download (31).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\StudentImagesFiles\\download (31).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\StudentImagesFiles\\images (2).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\StudentImagesFiles\\images (2).jfif"
+    },
+    {
       "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\StudentImagesFiles\\images (4).png",
       "PackagePath": "staticwebassets\\ImagesFiles\\StudentImagesFiles\\images (4).png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TeacherImagesFiles\\1182OS_02_01.jpg",
+      "PackagePath": "staticwebassets\\ImagesFiles\\TeacherImagesFiles\\1182OS_02_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TeacherImagesFiles\\2021-04-27T123707Z_39891_MRPPBEAHUNOFFE_RTRMADP_0_CHERNOBYL.jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\TeacherImagesFiles\\2021-04-27T123707Z_39891_MRPPBEAHUNOFFE_RTRMADP_0_CHERNOBYL.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TeacherImagesFiles\\Screenshot-2023-07-18-at-10.58.48-1140x684.png",
+      "PackagePath": "staticwebassets\\ImagesFiles\\TeacherImagesFiles\\Screenshot-2023-07-18-at-10.58.48-1140x684.png"
     },
     {
       "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TeacherImagesFiles\\d049af53-675f-4558-ad77-e3c2308f4f19.jfif",
@@ -259,6 +339,466 @@
     {
       "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TeacherImagesFiles\\images (5).jfif",
       "PackagePath": "staticwebassets\\ImagesFiles\\TeacherImagesFiles\\images (5).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TestimonialImagesFiles\\2021-04-27T123707Z_39891_MRPPBEAHUNOFFE_RTRMADP_0_CHERNOBYL.jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\TestimonialImagesFiles\\2021-04-27T123707Z_39891_MRPPBEAHUNOFFE_RTRMADP_0_CHERNOBYL.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TestimonialImagesFiles\\6520602-1.jpg",
+      "PackagePath": "staticwebassets\\ImagesFiles\\TestimonialImagesFiles\\6520602-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TestimonialImagesFiles\\GettyImages-495835759-5b2021ddba61770037f4f291.jpg",
+      "PackagePath": "staticwebassets\\ImagesFiles\\TestimonialImagesFiles\\GettyImages-495835759-5b2021ddba61770037f4f291.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-style.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-style.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-style6d24.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-style6d24.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme1.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme1.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme10.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme10.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme11.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme11.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme12.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme12.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme13.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme13.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme14.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme14.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme15.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme15.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme16.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme16.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme17.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme17.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme18.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme18.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme19.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme19.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme2.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme2.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme20.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme20.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme21.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme21.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme22.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme22.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme23.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme23.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme24.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme24.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme25.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme25.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme26.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme26.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme27.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme27.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme28.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme28.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme29.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme29.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme3.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme3.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme30.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme30.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme31.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme31.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme4.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme4.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme5.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme5.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme6.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme6.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme7.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme7.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme8.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme8.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme9.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme9.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\graphic1.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\graphic1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\graphic2.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\graphic2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\graphic3.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\graphic3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\graphic4.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\graphic4.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\graphic5.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\graphic5.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\graphic6.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\graphic6.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\graphic7.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\graphic7.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\graphic8.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\graphic8.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\icon1.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\icon1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\img1.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\img2.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\img3.png",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\img3.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\img4.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\img4.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\logo-dark.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\logo-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\logo-dark2.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\logo-dark2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\logo-grey.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\logo-grey.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\logo-light.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\logo-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\logo-white-removebg-preview.png",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\logo-white-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form1.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form10.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form11.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form12.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form13.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form14.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form15-p.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form15-p.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form15.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form16.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form17.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form18.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form19.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form2.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form20.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form21.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form22.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form23.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form24.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form25.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form26.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form27.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form28.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form29.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form3.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form30.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form31.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form4.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form5.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form6.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form7.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form8.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form9.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Login and Register\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\js\\cleave.min.js",
+      "PackagePath": "staticwebassets\\Login and Register\\js\\cleave.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Login and Register\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\js\\main.js",
+      "PackagePath": "staticwebassets\\Login and Register\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Login and Register\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\login15.html",
+      "PackagePath": "staticwebassets\\Login and Register\\login15.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\register15.html",
+      "PackagePath": "staticwebassets\\Login and Register\\register15.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Responsive Registraion or Sign up Form\\index.html",
+      "PackagePath": "staticwebassets\\Responsive Registraion or Sign up Form\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Responsive Registraion or Sign up Form\\style.css",
+      "PackagePath": "staticwebassets\\Responsive Registraion or Sign up Form\\style.css"
     },
     {
       "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic.rar",
@@ -2347,6 +2887,10 @@
     {
       "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\widgets.html",
       "PackagePath": "staticwebassets\\course-admin\\widgets.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CourseApp.Microsoft.AspNetCore.StaticWebAssets.props",

@@ -1,12 +1,14 @@
 ﻿using CourseApp.Areas.Admin.Models.StudentDTOs;
 using CourseApp.Context;
 using CourseApp.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CourseApp.Areas.Admin.Controllers
 {
 	[Area("Admin")]
-	public class StudentController : Controller
+    [Authorize(Roles = "Admin")]
+    public class StudentController : Controller
 	{
 
 		private readonly AppDbContext _context;

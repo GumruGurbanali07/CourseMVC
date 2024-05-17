@@ -8,6 +8,8 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter" Version="8.0.4" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.4" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.4" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.4">
       <PrivateAssets>all</PrivateAssets>
@@ -25,6 +27,9 @@
     <Folder Include="Areas\Admin\Data\" />
     <Folder Include="wwwroot\ImagesFiles\CourseImagesFiles\" />
     <Folder Include="wwwroot\ImagesFiles\AboutImagesFiles\" />
+    <Folder Include="wwwroot\ImagesFiles\AdminImagesFiles\" />
+    <Folder Include="wwwroot\ImagesFiles\RegisterImagesFiles\" />
+    <Folder Include="wwwroot\ImagesFiles\TestimonialImagesFiles\" />
     <Folder Include="wwwroot\ImagesFiles\StudentImagesFiles\" />
     <Folder Include="wwwroot\ImagesFiles\TeacherImagesFiles\" />
   </ItemGroup>

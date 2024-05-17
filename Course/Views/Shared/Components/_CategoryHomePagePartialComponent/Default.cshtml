@@ -1,0 +1,22 @@
+﻿@model List<CourseCategory>
+<section class="services-w3l-block py-5" id="features">
+    <div class="container py-md-5 py-4">
+        <div class="title-main text-center mx-auto mb-md-5 mb-4" style="max-width:500px;">
+            <p class="text-uppercase">Course Categories</p>
+            <h3 class="title-style">Categories</h3>
+        </div>
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-6 col-lg-3 d-flex align-items-stretch">
+                    <div style="margin-top:10px" class="icon-box col-lg-10 icon-box-clr-1">
+                        <div class="icon"><i class="fa-solid fa-@item.Icon"></i></div>
+                        <h4 class="title"><a href="#about">@item.CourseCategoryName</a></h4>
+                    </div>
+                </div>
+            }
+
+
+        </div>
+    </div>
+</section>

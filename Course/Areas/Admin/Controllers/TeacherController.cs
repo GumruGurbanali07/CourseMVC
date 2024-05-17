@@ -1,12 +1,14 @@
 ﻿using CourseApp.Areas.Admin.Models.TeacherDTOs;
 using CourseApp.Context;
 using CourseApp.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace CourseApp.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = "Admin")]
     public class TeacherController : Controller
     {
 

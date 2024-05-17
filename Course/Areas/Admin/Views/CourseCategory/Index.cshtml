@@ -20,7 +20,6 @@
                         <thead>
                             <tr>
                                 <th>Category Name </th>
-
                                 <th>Status</th>
                                 <th>Actions </th>
                             </tr>
@@ -29,7 +28,7 @@
                             @foreach (var item in Model)
                             {
                                 <tr>
-                                    <td class="highlight">@item.CourseCategoryName</td>
+                                    <td class="highlight"><i style="margin-right:10px" class="fa-solid fa-@item.Icon"></i>@item.CourseCategoryName</td>
 
 
                                     <td>

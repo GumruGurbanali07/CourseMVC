@@ -7,9 +7,8 @@
 
 <div class="col-lg-12">
     <div class="ibox float-e-margins">
-        <div class="ibox-title d-flex">
+        <div class="ibox-title">
             <h5> Course Subscribe </h5>
-            <a href="/Admin/CourseSubcribe/CreateCourseSubcribe" style="margin-left: 1100px" class="btn btn-primary">Add Subscribe</a>
 
         </div>
         <!-- / ibox-title -->
@@ -21,7 +20,7 @@
                             <tr>
                                 <th>Course name </th>
                                 <th>Subcribe Students</th>
-                                <th>Actions </th>
+                                <th>Add Subscriber </th>
                             </tr>
                         </thead>
                         <tbody>
@@ -30,11 +29,10 @@
                                 <tr>
                                     <td class="highlight">@item.Course.CourseName</td>
 
-                                    <td><a href="#" class="btn btn-primary">Add Student</a></td>
+                                    <td><a href="/Admin/CourseSubscribe/StudentListByCourse/@item.CourseId" class="btn btn-primary">Students by Course</a></td>
                                     
                                     <td>
-                                        <a href="/Admin/CourseSubcribe/UpdateCourseSubcribe/@item.CourseSubcribeId" class="btn btn-outline-primary btn-round btn-sm purple"> <i class="fa-solid fa-pen"></i> Edit </a>
-                                        <a href="/Admin/CourseSubcribe/DeleteCourseSubcribe/@item.CourseSubcribeId" class="btn btn-outline-danger btn-round btn-sm purple"> <i class="fa-solid fa-trash"></i> Delete </a>
+                                        <a href="/Admin/CourseSubscribe/AddSubscriber/@item.CourseId" class="btn btn-warning"><i class="fa-solid fa-plus"></i></a>
                                     </td>
                                 </tr>
                             }

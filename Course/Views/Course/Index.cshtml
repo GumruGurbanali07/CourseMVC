@@ -1,8 +1,73 @@
-﻿
+﻿@model List<Courses>
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Courses";
+    ViewData["CourseA"] = "active";
     Layout = "~/Views/Shared/_UILayout.cshtml";
 }
 
-<h2>Index</h2>
+<!-- inner banner -->
+<section class="inner-banner py-5">
+    <div class="w3l-breadcrumb py-lg-5">
+        <div class="container pt-4 pb-sm-4">
+            <h4 class="inner-text-title pt-5">Courses</h4>
+            <ul class="breadcrumbs-custom-path">
+                <li><a href="/Home/Index">Home</a></li>
+                <li class="active"><i class="fas fa-angle-right"></i>Courses</li>
+            </ul>
+        </div>
+    </div>
+</section>
+<!-- //inner banner -->
+<!-- courses section -->
+<div class="w3l-grids-block-5 py-5">
+    <div class="container py-md-5 py-4">
+        <div class="title-main text-center mx-auto mb-md-5 mb-4" style="max-width:500px;">
+            <p class="text-uppercase">Best Courses</p>
+            <h3 class="title-style">Find The Right Course For You</h3>
+        </div>
+        <div class="row justify-content-center">
+            @foreach(var item in Model)
+            {
+                  <div class="col-lg-4 col-md-6">
+                <div class="coursecard-single">
+                    <div class="grids5-info position-relative">
+                            <img src="@item.CourseImage" style="height:350px; width:400px" alt="" class="img-fluid" />
+                        <div class="meta-list">
+                            <a href="/Course/CourseDetail/@item.CourseId">@item.CourseCategory.CourseCategoryName</a>
+                        </div>
+                    </div>
+                    <div class="content-main-top">
+                            <div class="content-top mb-4 mt-3">
+                                <ul class="list-unstyled  align-items-center justify-content-between">
+                                    <li> <i style="margin-right:5px" class="fa-solid fa-chalkboard-user text-primary"></i> @item.Teachers.TeacherName</li>
+                                </ul>
+                            </div>
+
+                            <h4><a href="/Course/CourseDetail/@item.CourseId">@item.CourseName</a></h4>
+                            <p>
+                                @if (item.CourseDescription.Length > 65)
+                                {
+                                    @Html.Raw(item.CourseDescription.Substring(0, 65) + "...")
+                                }
+                                else
+                                {
+                                    @Html.Raw(item.CourseDescription)
+                                }
+                            </p>
+                        <div class="top-content-border d-flex align-items-center justify-content-between mt-4 pt-4">
+                                <h6>@item.Price<i style="margin-left:5px" class="fa-solid fa-manat-sign"></i></h6>
+                                <a class="btn btn-style-primary" href="/Course/CourseDetail/@item.CourseId">
+                                Know Details<i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            }
+          
+           
+        </div>
+      
+    </div>
+</div>
 

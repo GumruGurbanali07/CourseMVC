@@ -1,0 +1,56 @@
+﻿@model List<Courses>
+<div class="w3l-grids-block-5 home-course-bg py-5" id="courses">
+    <div class="container py-md-5 py-4">
+        <div class="title-main text-center mx-auto mb-md-5 mb-4" style="max-width:500px;">
+            <p class="text-uppercase">Best Courses</p>
+            <h3 class="title-style">Find The Right Course For You</h3>
+        </div>
+        <div class="row justify-content-center">
+            @foreach(var item in Model)
+            {
+                <div class="col-lg-4 col-md-6">
+                <div class="coursecard-single">
+                    <div class="grids5-info position-relative">
+                        <img style ="height:350px; width:400px" src="@item.CourseImage" alt="" class="img-fluid" />
+                        <div class="meta-list">
+                            <a href="#">@item.CourseCategory.CourseCategoryName</a>
+                        </div>
+                    </div>
+                    <div class="content-main-top">
+                        <div class="content-top mb-4 mt-3">
+                            <ul class="list-unstyled  align-items-center justify-content-between">
+                                <li> <i style="margin-right:5px" class="fa-solid fa-chalkboard-user text-primary"></i> @item.Teachers.TeacherName</li>
+                            </ul>
+                        </div>
+
+                        <h4><a href="courses.html">@item.CourseName</a></h4>
+                        <p>
+                                @if (item.CourseDescription.Length > 65)
+                                {
+                                    @Html.Raw(item.CourseDescription.Substring(0,65)+"...") 
+                                }
+                                else
+                                {
+                                    @Html.Raw(item.CourseDescription)
+                                }
+                            </p>
+                        <div class="top-content-border d-flex align-items-center justify-content-between mt-4 pt-4">
+                            <h6>@item.Price <i style="margin-left:5px" class="fa-solid fa-manat-sign"></i></h6>
+                            <a class="btn btn-style-primary" href="/Contact/Index">
+                                Know Details<i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            }
+            
+            
+        </div>
+        <div class="text-center mt-sm-5 mt-4 pt-sm-0 pt-1">
+            <a class="btn btn-style btn-style-secondary mt-sm-3" href="courses.html">
+                Browse more courses
+            </a>
+        </div>
+    </div>
+</div>

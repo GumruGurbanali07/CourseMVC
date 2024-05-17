@@ -1,11 +1,13 @@
 ﻿using CourseApp.Areas.Admin.Models.CourseCategoryDTOs;
 using CourseApp.Context;
 using CourseApp.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CourseApp.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = "Admin")]
     public class CourseCategoryController : Controller
     {
         private readonly AppDbContext _context;
@@ -36,6 +38,7 @@ namespace CourseApp.Areas.Admin.Controllers
                 CourseCategory courseCategory = new CourseCategory();
                 courseCategory.CourseCategoryName = courseCategoryDto.CourseCategoryName;
                 courseCategory.IsActive = false;
+                courseCategory.Icon=courseCategoryDto.Icon;
                 _context.CourseCategories.Add(courseCategory);
                 _context.SaveChanges();
                 return RedirectToAction("Index");
@@ -53,6 +56,7 @@ namespace CourseApp.Areas.Admin.Controllers
                 CourseCategoryName = courseCategoryValue.CourseCategoryName,
                 IsActive = courseCategoryValue.IsActive,
                 CourseCategoryId = courseCategoryValue.CourseCategoryId,
+                Icon=courseCategoryValue.Icon
 
             };
 
@@ -67,7 +71,7 @@ namespace CourseApp.Areas.Admin.Controllers
                 values.CourseCategoryName = updateCourseCategoryDTO.CourseCategoryName;
                 values.CourseCategoryId = updateCourseCategoryDTO.CourseCategoryId;
                 values.IsActive = values.IsActive;
-
+                values.Icon = updateCourseCategoryDTO.Icon;
                 _context.CourseCategories.Update(values);
                 _context.SaveChanges();
                 return RedirectToAction("Index");

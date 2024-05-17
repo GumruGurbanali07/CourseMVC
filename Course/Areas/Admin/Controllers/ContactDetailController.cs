@@ -1,10 +1,12 @@
 ﻿using CourseApp.Context;
 using CourseApp.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CourseApp.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = "Admin")]
     public class ContactDetailController : Controller
     {
 

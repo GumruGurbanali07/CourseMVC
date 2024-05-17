@@ -1,0 +1,64 @@
+﻿@model Contact
+
+@{
+    ViewData["Title"] = "Contact";
+    ViewData["ContactA"] = "active";
+    Layout = "~/Views/Shared/_UILayout.cshtml";
+}
+
+<!-- inner banner -->
+<section class="inner-banner py-5">
+    <div class="w3l-breadcrumb py-lg-5">
+        <div class="container pt-4 pb-sm-4">
+            <h4 class="inner-text-title pt-5">Contact Us</h4>
+            <ul class="breadcrumbs-custom-path">
+                <li><a href="/Home/Index">Home</a></li>
+                <li class="active"><i class="fas fa-angle-right"></i>Contact Us</li>
+            </ul>
+        </div>
+    </div>
+</section>
+<!-- //inner banner -->
+<!-- contact block -->
+<section class="w3l-contact py-5" id="contact">
+    <div class="container py-md-5 py-4">
+        <div class="title-main text-center mx-auto mb-md-5 mb-4" style="max-width:500px;">
+            <p class="text-uppercase">Get In Touch</p>
+            <h3 class="title-style">Contact Us</h3>
+        </div>
+        <div class="row contact-block">
+            <div class="col-md-7 contact-right">
+                <form  method="post" >
+                    <div class="input-grids">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <input asp-for="Name" type="text"  id="w3lName" placeholder="Your Name"
+                                       class="contact-input" required="" />
+                            </div>
+                            <div class="col-sm-6">
+                                <input asp-for="Email" type="email"  id="w3lSender" placeholder="Your Email"
+                                       class="contact-input" required="" />
+                            </div>
+                        </div>
+                        <input asp-for="Subject" type="text"  id="w3lSubect" placeholder="Subject"
+                               class="contact-input" required="" />
+                       
+                    </div>
+                    <div class="form-input">
+                        <textarea asp-for="Message"  id="w3lMessage" placeholder="Type your message here"
+                                  required=""></textarea>
+                    </div>
+                    <div class="text-start">
+                        <button class="btn btn-style btn-style-3">Send Message</button>
+                    </div>
+                </form>
+            </div>
+            @await Component.InvokeAsync("_ContactDetailContactPagePartialComponent")
+            
+        </div>
+    </div>
+</section>
+<!-- map -->
+@await Component.InvokeAsync("_IframeContactPagePartialComponent")
+
+<!-- //contact block -->
