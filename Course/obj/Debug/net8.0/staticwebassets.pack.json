@@ -217,6 +217,10 @@
       "PackagePath": "staticwebassets\\Edu-School-Starter\\starter-license-W3Layouts.txt"
     },
     {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\AboutImagesFiles\\2907.jpg",
+      "PackagePath": "staticwebassets\\ImagesFiles\\AboutImagesFiles\\2907.jpg"
+    },
+    {
       "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\AboutImagesFiles\\download (33).jfif",
       "PackagePath": "staticwebassets\\ImagesFiles\\AboutImagesFiles\\download (33).jfif"
     },
@@ -259,6 +263,30 @@
     {
       "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\download (36).jfif",
       "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\download (36).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\download (37).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\download (37).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\download (38).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\download (38).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\download (39).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\download (39).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\download (4).png",
+      "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\download (4).png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\download (40).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\download (40).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\download (5).png",
+      "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\download (5).png"
     },
     {
       "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\experience-img.png",
@@ -313,6 +341,26 @@
       "PackagePath": "staticwebassets\\ImagesFiles\\StudentImagesFiles\\download (31).jfif"
     },
     {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\StudentImagesFiles\\download (41).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\StudentImagesFiles\\download (41).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\StudentImagesFiles\\download (42).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\StudentImagesFiles\\download (42).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\StudentImagesFiles\\images (14).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\StudentImagesFiles\\images (14).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\StudentImagesFiles\\images (15).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\StudentImagesFiles\\images (15).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\StudentImagesFiles\\images (16).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\StudentImagesFiles\\images (16).jfif"
+    },
+    {
       "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\StudentImagesFiles\\images (2).jfif",
       "PackagePath": "staticwebassets\\ImagesFiles\\StudentImagesFiles\\images (2).jfif"
     },
@@ -337,8 +385,28 @@
       "PackagePath": "staticwebassets\\ImagesFiles\\TeacherImagesFiles\\d049af53-675f-4558-ad77-e3c2308f4f19.jfif"
     },
     {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TeacherImagesFiles\\images (10).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\TeacherImagesFiles\\images (10).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TeacherImagesFiles\\images (11).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\TeacherImagesFiles\\images (11).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TeacherImagesFiles\\images (12).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\TeacherImagesFiles\\images (12).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TeacherImagesFiles\\images (13).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\TeacherImagesFiles\\images (13).jfif"
+    },
+    {
       "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TeacherImagesFiles\\images (5).jfif",
       "PackagePath": "staticwebassets\\ImagesFiles\\TeacherImagesFiles\\images (5).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TeacherImagesFiles\\images (9).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\TeacherImagesFiles\\images (9).jfif"
     },
     {
       "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TestimonialImagesFiles\\2021-04-27T123707Z_39891_MRPPBEAHUNOFFE_RTRMADP_0_CHERNOBYL.jfif",
@@ -351,6 +419,14 @@
     {
       "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TestimonialImagesFiles\\GettyImages-495835759-5b2021ddba61770037f4f291.jpg",
       "PackagePath": "staticwebassets\\ImagesFiles\\TestimonialImagesFiles\\GettyImages-495835759-5b2021ddba61770037f4f291.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TestimonialImagesFiles\\images (17).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\TestimonialImagesFiles\\images (17).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TestimonialImagesFiles\\images (18).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\TestimonialImagesFiles\\images (18).jfif"
     },
     {
       "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\bootstrap.min.css",
